@@ -35,17 +35,17 @@ body {
     gap: 30px;
 }
 
-.header {
+/* .header {
     position: absolute;
     top: -1px; 
-    /* gap: 50px; */
+    gap: 50px;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
     color: #2d5a5a;
     letter-spacing: 8px;
     font-weight: normal;
-}
+} */
 
 .left-section {
     flex: 1;
