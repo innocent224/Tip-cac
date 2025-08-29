@@ -19,6 +19,7 @@ body {
     background: linear-gradient(135deg, #b8d4d4, #a8c8c8);
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 20px;
@@ -35,7 +36,8 @@ body {
     gap: 30px;
 }
 
-/* .header {
+.header {
+    justify-self: center;
     position: absolute;
     top: -1px; 
     gap: 50px;
@@ -45,7 +47,7 @@ body {
     color: #2d5a5a;
     letter-spacing: 8px;
     font-weight: normal;
-} */
+}
 
 .left-section {
     flex: 1;
