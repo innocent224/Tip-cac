@@ -1,5 +1,4 @@
 let currentTipPercentage = 0;
-        
         const billInput = document.getElementById('billAmount');
         const numPeopleInput = document.getElementById('numPeople');
         const customTipInput = document.getElementById('customTip');
